@@ -1,0 +1,11 @@
+{
+  "name": "stackoverflow-clone-mern",
+  "version": "1.0.0",
+  "description": "- **Integrated AI chatbot using OpenAI**\r   - ***Chatbot won't give response as the free trial got expired on 1 June 2023***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adinath Raut",
+  "license": "ISC"
+}
